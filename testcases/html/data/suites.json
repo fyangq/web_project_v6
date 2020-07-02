@@ -1,0 +1,100 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "test_login_01_error[user_data0]",
+          "uid" : "fd26ad3dccc5603c",
+          "parentUid" : "d4554f72578f7e241e2450d4e0863257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567491021401,
+            "stop" : 1567491023835,
+            "duration" : 2434
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': '15950510269', 'password': '', 'e_msg': '请输入密码'}" ]
+        }, {
+          "name" : "test_login_01_error[user_data1]",
+          "uid" : "df8fbeb99b8edda0",
+          "parentUid" : "d4554f72578f7e241e2450d4e0863257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567491023839,
+            "stop" : 1567491024619,
+            "duration" : 780
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': '15', 'password': 'python12', 'e_msg': '请输入正确的手机号'}" ]
+        }, {
+          "name" : "test_login_01_error[user_data2]",
+          "uid" : "5d4b6c451daa8001",
+          "parentUid" : "d4554f72578f7e241e2450d4e0863257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567491024643,
+            "stop" : 1567491025293,
+            "duration" : 650
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': '1595051026978', 'password': 'python12', 'e_msg': '请输入正确的手机号'}" ]
+        }, {
+          "name" : "test_login_01_error[user_data3]",
+          "uid" : "b552ea96b95c5562",
+          "parentUid" : "d4554f72578f7e241e2450d4e0863257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567491025297,
+            "stop" : 1567491025838,
+            "duration" : 541
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': '', 'password': 'python', 'e_msg': '请输入手机号'}" ]
+        }, {
+          "name" : "test_login_02_unregister[user_info0]",
+          "uid" : "1baabcdd9a240e22",
+          "parentUid" : "d4554f72578f7e241e2450d4e0863257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567491025868,
+            "stop" : 1567491026398,
+            "duration" : 530
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': '15950510269', 'password': '123456', 'e_msg': '帐号或密码错误!'}" ]
+        }, {
+          "name" : "test_login_02_unregister[user_info1]",
+          "uid" : "52fab73bac48431e",
+          "parentUid" : "d4554f72578f7e241e2450d4e0863257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567491026403,
+            "stop" : 1567491027000,
+            "duration" : 597
+          },
+          "flaky" : false,
+          "parameters" : [ "{'username': '15950510267', 'password': '123456', 'e_msg': '此账号没有经过授权，请联系管理员!'}" ]
+        }, {
+          "name" : "test_login_03_success",
+          "uid" : "b6183368c47f1d77",
+          "parentUid" : "d4554f72578f7e241e2450d4e0863257",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567491027034,
+            "stop" : 1567491049502,
+            "duration" : 22468
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "d4554f72578f7e241e2450d4e0863257"
+      } ],
+      "uid" : "aee40f06fa1895f15c0638c28bc66f30"
+    } ],
+    "uid" : "84e4fb228aa5651a31b5ca4d2bc531de"
+  } ]
+}

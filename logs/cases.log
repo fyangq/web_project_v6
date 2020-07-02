@@ -1,0 +1,75 @@
+2019-08-28 17:10:07,059 - [ERROR] - [msg]定位('xpath', '//a[@class="btn btn-special"]')出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-28 17:10:50,820 - [ERROR] - [msg]定位('xpath', '//a[@class="btn btn-special"]')出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-28 17:18:40,481 - [ERROR] - [msg]定位('css selector', '.btn-special')出错了,错误是Message: 
+ - base_page.py  -wait_click_element - 42
+2019-08-28 17:19:24,143 - [ERROR] - [msg]定位('css selector', '.btn-special')出错了,错误是Message: 
+ - base_page.py  -wait_click_element - 42
+2019-08-28 18:59:45,460 - [ERROR] - [msg]定位('css selector', '.invest-unit-investinput')出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-28 19:02:44,835 - [ERROR] - [msg]定位('css selector', '.invest-unit-investinput')出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-28 19:05:45,412 - [ERROR] - [msg]定位('css selector', '.invest-unit-investinput')出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-29 13:51:20,412 - [ERROR] - [msg]定位('xpath', "//button[@class='xh-highlight']")出错了,错误是Message: 
+ - base_page.py  -wait_click_element - 42
+2019-08-29 13:54:54,316 - [ERROR] - [msg]定位('xpath', "//button[@class='xh-highlight']")出错了,错误是Message: 
+ - base_page.py  -wait_click_element - 42
+2019-08-29 15:40:45,138 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-29 15:45:01,820 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-29 15:54:12,656 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-29 17:12:38,201 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-29 17:17:17,545 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-29 17:26:22,983 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-29 17:29:47,140 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-30 11:23:41,617 - [ERROR] - [msg]定位('xpath', "//div[@class='layui-layer-content']//div[@class='capital_font1 note']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-30 11:24:30,606 - [ERROR] - [msg]定位('xpath', "//div[@class='layui-layer-content']//div[@class='capital_font1 note']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-30 11:28:25,842 - [ERROR] - [msg]定位('css selector', '.invest-unit-investinput')出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-30 11:32:44,465 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-30 13:25:06,584 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-30 13:39:37,463 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-30 13:49:37,438 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-31 14:25:26,260 - [ERROR] - [msg]定位('name', 'phone')出错了,错误是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.132)
+ - base_page.py  -wait_presence_element - 26
+2019-08-31 14:30:28,891 - [ERROR] - [msg]定位('xpath', "//div[@class='layui-layer-content']//div[@class='capital_font1 note']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-31 14:31:16,447 - [ERROR] - [msg]定位('xpath', "//div[@class='layui-layer-content']//div[@class='capital_font1 note']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-08-31 16:10:11,154 - [ERROR] - [msg]定位('xpath', '//a[@class="btn btn-special"]')出错了,错误是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.132)
+ - base_page.py  -wait_visable_element - 34
+2019-08-31 16:10:23,341 - [ERROR] - [msg]定位('name', 'phone')出错了,错误是Message: chrome not reachable
+  (Session info: chrome=76.0.3809.132)
+ - base_page.py  -wait_presence_element - 26
+2019-08-31 16:18:49,675 - [ERROR] - [msg]定位('xpath', '//a[@class="btn btn-special"]')出错了,错误是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.132)
+ - base_page.py  -wait_visable_element - 34
+2019-09-02 17:27:39,293 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2019-09-03 16:30:07,007 - [ERROR] - [msg]定位('xpath', '//a[@class="btn btn-special"]')出错了,错误是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=76.0.3809.132)
+ - base_page.py  -wait_visable_element - 34
+2020-07-01 14:08:31,973 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34
+2020-07-01 17:19:42,879 - [ERROR] - [msg]定位('xpath', "//li[@class='color_sub']")出错了,错误是Message: 
+ - base_page.py  -wait_visable_element - 34

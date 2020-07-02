@@ -1,0 +1,91 @@
+{
+  "uid" : "1b219f7901e18be2",
+  "name" : "test_bid_02_error[bid_error_alert0]",
+  "fullName" : "testcases.test_bid.TestBid#test_bid_02_error",
+  "historyId" : "3f4a40ec59cf82ea590c9bbec69a9d73",
+  "time" : {
+    "start" : 1567499535468,
+    "stop" : 1567499558595,
+    "duration" : 23127
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "init_bid",
+    "time" : {
+      "start" : 1567499439649,
+      "stop" : 1567499489620,
+      "duration" : 49971
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init_bid::0",
+    "time" : {
+      "start" : 1567499736403,
+      "stop" : 1567499738711,
+      "duration" : 2308
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试投资金额不是100的倍数"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_bid"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBid"
+  }, {
+    "name" : "host",
+    "value" : "lxq"
+  }, {
+    "name" : "thread",
+    "value" : "12148-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_bid"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "bid_error_alert",
+    "value" : "{'money': '10', 'checks': '投标金额必须为100的倍数'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b219f7901e18be2.json",
+  "parameterValues" : [ "{'money': '10', 'checks': '投标金额必须为100的倍数'}" ]
+}

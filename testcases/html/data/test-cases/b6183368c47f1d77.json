@@ -1,0 +1,84 @@
+{
+  "uid" : "b6183368c47f1d77",
+  "name" : "test_login_03_success",
+  "fullName" : "test_login.TestLogin#test_login_03_success",
+  "historyId" : "0cd9742517547b3dcc7dc7df169fd067",
+  "time" : {
+    "start" : 1567491027034,
+    "stop" : 1567491049502,
+    "duration" : 22468
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "init_web",
+    "time" : {
+      "start" : 1567491015078,
+      "stop" : 1567491021341,
+      "duration" : 6263
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init_web::0",
+    "time" : {
+      "start" : 1567491049503,
+      "stop" : 1567491051669,
+      "duration" : 2166
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "lxq"
+  }, {
+    "name" : "thread",
+    "value" : "732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6183368c47f1d77.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,9 @@
+[
+  "test_bid.py::TestBid::()::test_bid_01_error[error_data_10]",
+  "test_bid.py::TestBid::()::test_bid_01_error[error_data_11]",
+  "test_bid.py::TestBid::()::test_bid_02_error[bid_error_alert0]",
+  "test_bid.py::TestBid::()::test_bid_02_error[bid_error_alert1]",
+  "test_bid.py::TestBid::()::test_bid_02_error[bid_error_alert2]",
+  "test_bid.py::TestBid::()::test_bid_03_success[succes_data0]",
+  "test_bid.py::TestBid::()::test_bid_03_success[succes_data1]"
+]

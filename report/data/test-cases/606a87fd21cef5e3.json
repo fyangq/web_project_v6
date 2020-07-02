@@ -1,0 +1,91 @@
+{
+  "uid" : "606a87fd21cef5e3",
+  "name" : "test_bid_03_success[succes_data0]",
+  "fullName" : "testcases.test_bid.TestBid#test_bid_03_success",
+  "historyId" : "41ff5ebe4e431680e128ca984e80a50d",
+  "time" : {
+    "start" : 1567499604793,
+    "stop" : 1567499670644,
+    "duration" : 65851
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "init_bid",
+    "time" : {
+      "start" : 1567499439649,
+      "stop" : 1567499489620,
+      "duration" : 49971
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init_bid::0",
+    "time" : {
+      "start" : 1567499736403,
+      "stop" : 1567499738711,
+      "duration" : 2308
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试投资成功"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_bid"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBid"
+  }, {
+    "name" : "host",
+    "value" : "lxq"
+  }, {
+    "name" : "thread",
+    "value" : "12148-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_bid"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "succes_data",
+    "value" : "{'money': 100, 'msg': '投标成功！'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "606a87fd21cef5e3.json",
+  "parameterValues" : [ "{'money': 100, 'msg': '投标成功！'}" ]
+}

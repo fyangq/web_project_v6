@@ -1,0 +1,91 @@
+{
+  "uid" : "9176a114d5392148",
+  "name" : "test_bid_01_error[error_data_11]",
+  "fullName" : "testcases.test_bid.TestBid#test_bid_01_error",
+  "historyId" : "83e1badf84b00f5da443bf159ba608aa",
+  "time" : {
+    "start" : 1567499512519,
+    "stop" : 1567499535451,
+    "duration" : 22932
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "init_bid",
+    "time" : {
+      "start" : 1567499439649,
+      "stop" : 1567499489620,
+      "duration" : 49971
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init_bid::0",
+    "time" : {
+      "start" : 1567499736403,
+      "stop" : 1567499738711,
+      "duration" : 2308
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试投资金额不是10的倍数"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_bid"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBid"
+  }, {
+    "name" : "host",
+    "value" : "lxq"
+  }, {
+    "name" : "thread",
+    "value" : "12148-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_bid"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "error_data_1",
+    "value" : "{'money': 'a', 'checks': '请输入10的整数倍'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9176a114d5392148.json",
+  "parameterValues" : [ "{'money': 'a', 'checks': '请输入10的整数倍'}" ]
+}

@@ -1,0 +1,89 @@
+{
+  "uid" : "5d4b6c451daa8001",
+  "name" : "test_login_01_error[user_data2]",
+  "fullName" : "test_login.TestLogin#test_login_01_error",
+  "historyId" : "191b34fd6cd22c5211bd104224260379",
+  "time" : {
+    "start" : 1567491024643,
+    "stop" : 1567491025293,
+    "duration" : 650
+  },
+  "description" : "测试登录功能异常。\n        步骤：\n        1、启动浏览器，进入登录页面；\n        2、元素定位用户名和密码；\n        3、发送用户名和密码(测试数据)；\n        4、点击登录按钮\n        5、断言\n\n        1、登录  login()\n        2、获取实际结果, actual = get_actual_result()\n        3、断言  self.assertEqual(actual, expected)\n        ",
+  "descriptionHtml" : "<p>测试登录功能异常。\n步骤：\n1、启动浏览器，进入登录页面；\n2、元素定位用户名和密码；\n3、发送用户名和密码(测试数据)；\n4、点击登录按钮\n5、断言</p>\n<pre><code>    1、登录  login()\n    2、获取实际结果, actual = get_actual_result()\n    3、断言  self.assertEqual(actual, expected)\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "init_web",
+    "time" : {
+      "start" : 1567491015078,
+      "stop" : 1567491021341,
+      "duration" : 6263
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init_web::0",
+    "time" : {
+      "start" : 1567491049503,
+      "stop" : 1567491051669,
+      "duration" : 2166
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "lxq"
+  }, {
+    "name" : "thread",
+    "value" : "732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "user_data",
+    "value" : "{'username': '1595051026978', 'password': 'python12', 'e_msg': '请输入正确的手机号'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d4b6c451daa8001.json",
+  "parameterValues" : [ "{'username': '1595051026978', 'password': 'python12', 'e_msg': '请输入正确的手机号'}" ]
+}

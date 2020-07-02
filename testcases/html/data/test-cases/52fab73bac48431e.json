@@ -1,0 +1,87 @@
+{
+  "uid" : "52fab73bac48431e",
+  "name" : "test_login_02_unregister[user_info1]",
+  "fullName" : "test_login.TestLogin#test_login_02_unregister",
+  "historyId" : "c49f28abeac8e006238ba9ee7320ea00",
+  "time" : {
+    "start" : 1567491026403,
+    "stop" : 1567491027000,
+    "duration" : 597
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "init_web",
+    "time" : {
+      "start" : 1567491015078,
+      "stop" : 1567491021341,
+      "duration" : 6263
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init_web::0",
+    "time" : {
+      "start" : 1567491049503,
+      "stop" : 1567491051669,
+      "duration" : 2166
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "lxq"
+  }, {
+    "name" : "thread",
+    "value" : "732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "user_info",
+    "value" : "{'username': '15950510267', 'password': '123456', 'e_msg': '此账号没有经过授权，请联系管理员!'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52fab73bac48431e.json",
+  "parameterValues" : [ "{'username': '15950510267', 'password': '123456', 'e_msg': '此账号没有经过授权，请联系管理员!'}" ]
+}

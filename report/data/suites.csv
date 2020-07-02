@@ -1,0 +1,62 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcases.test_bid.TestBid#test_bid_02_error","23127",""
+"passed","testcases.test_bid.TestBid#test_bid_01_error","22874",""
+"passed","testcases.test_login.TestLogin#test_login_03_success","21916",""
+"passed","test_first.Test_firstFile#test_two","1",""
+"passed","testcases.test_login.TestLogin#test_login_01_error","603","测试登录功能异常。
+        步骤：
+        1、启动浏览器，进入登录页面；
+        2、元素定位用户名和密码；
+        3、发送用户名和密码(测试数据)；
+        4、点击登录按钮
+        5、断言
+
+        1、登录  login()
+        2、获取实际结果, actual = get_actual_result()
+        3、断言  self.assertEqual(actual, expected)
+        "
+"passed","test_first.Test_firstFile#test_one","1",""
+"passed","testcases.test_bid.TestBid#test_bid_02_error","23050",""
+"passed","testcases.test_bid.TestBid#test_bid_01_error","22932",""
+"passed","testcases.test_bid.TestBid#test_bid_03_success","65851",""
+"passed","test_first.Test_firstFile#test_three","1",""
+"passed","testcases.test_login.TestLogin#test_login_01_error","544","测试登录功能异常。
+        步骤：
+        1、启动浏览器，进入登录页面；
+        2、元素定位用户名和密码；
+        3、发送用户名和密码(测试数据)；
+        4、点击登录按钮
+        5、断言
+
+        1、登录  login()
+        2、获取实际结果, actual = get_actual_result()
+        3、断言  self.assertEqual(actual, expected)
+        "
+"passed","testcases.test_login.TestLogin#test_login_02_unregister","524",""
+"passed","testcases.test_bid.TestBid#test_bid_02_error","23090",""
+"passed","testcases.test_login.TestLogin#test_login_01_error","2019","测试登录功能异常。
+        步骤：
+        1、启动浏览器，进入登录页面；
+        2、元素定位用户名和密码；
+        3、发送用户名和密码(测试数据)；
+        4、点击登录按钮
+        5、断言
+
+        1、登录  login()
+        2、获取实际结果, actual = get_actual_result()
+        3、断言  self.assertEqual(actual, expected)
+        "
+"passed","testcases.test_login.TestLogin#test_login_01_error","713","测试登录功能异常。
+        步骤：
+        1、启动浏览器，进入登录页面；
+        2、元素定位用户名和密码；
+        3、发送用户名和密码(测试数据)；
+        4、点击登录按钮
+        5、断言
+
+        1、登录  login()
+        2、获取实际结果, actual = get_actual_result()
+        3、断言  self.assertEqual(actual, expected)
+        "
+"passed","testcases.test_login.TestLogin#test_login_02_unregister","531",""
+"passed","testcases.test_bid.TestBid#test_bid_03_success","65728",""

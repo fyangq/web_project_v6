@@ -1,0 +1,70 @@
+{
+  "total" : 9,
+  "items" : [ {
+    "uid" : "17b29bf80833d88d45be09d37c427cfd",
+    "name" : "测试登录功能异常1",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "0e7516c2220916a341325a2ef5d0312f",
+    "name" : "测试投资金额不是100的倍数",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "de55f89576c95a964f2123a3d6688589",
+    "name" : "测试投资金额不是10的倍数",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "005f34ea81602e650bc83779cd035810",
+    "name" : "测试投资成功",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "f2114a554400d12dc43b635c0cbedb34",
+    "name" : "测试未注册用户登录",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "578baed3d396c6f6554c894ece5d6c85",
+    "name" : "测试已注册用户登录",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}
