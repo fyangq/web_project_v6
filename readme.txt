@@ -2,7 +2,7 @@ selenium
 
 1.元素定位  ==>js DOM  document.getElementById()
 #8大元素定位:ID,name,tagname,classname,partial_link_text,link_text,xpath,css
-2.等待
+2.元素等待
 3.元素操作
 4.鼠标操作 actionchains
 5.js脚本  js操作，窗口操作
